@@ -6,4 +6,5 @@
 - 📫 Reach me on : 
 -                   Discord>     Princee#0117
 -                   Instagram>    @divz_incee
--                   or mail me at   cdivyanshu10@gmail.com
+or mail me at   
+-                   cdivyanshu10@gmail.com
