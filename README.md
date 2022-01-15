@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divyanshu <CodeName // Divz >
+- 👋 Hi, I’m Divyanshu <Call me Divz>
 - 👀 I’m interested in Coding and improving on time complexity programs...
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on creating A.I. Bots and applications.
