@@ -5,7 +5,7 @@
 - 😊 My hobbies are watching Anime and playing Guitar.
 - 📫 Reach me on : 
 Discord>     
--                   Princee#0117
+-                   Princey#0117
 Instagram>    
 -                   divz_incee
 or mail me at   
