@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divyanshu //Call me Divz
 - 👀 I’m interested in Coding and improving my skills...
 - 🌱 I’m currently learning Kotlin and App Developement ,
-- 💞️ I’m looking to collaborate on creating A.I. Bots and applications.
+- 💞️ I’m looking to collaborate on creating A.I. Bots and applications,
 - 😊 My hobbies are watching Anime and playing Guitar.
 - 📫 Reach me on : 
 Discord>     
