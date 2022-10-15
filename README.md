@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Web Developement**
 
-- 👯 I’m looking to collaborate on **A.I Bots and Applications**
+- 👯 I’m looking to collaborate on **A.I Bots and Applications** 
 
 - 🤝 I’m looking for help with **Sensor based devices**
 
