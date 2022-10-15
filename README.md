@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Sensor based devices**
 
-- 💬 Ask me about **OpenCV and ML/AI**
+- 💬 Ask me about **OpenCV and ML/AI** 
 
 - 📫 Mail me at **cdivyanshu10@gmail.com**
 
