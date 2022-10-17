@@ -91,7 +91,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 
-
+<h3 align="left">GitHub Stats :</h3> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu960&show_icons=true&locale=en" alt="divyanshu960" /></p>
 
