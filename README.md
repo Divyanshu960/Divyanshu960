@@ -93,6 +93,6 @@
 
 <h3 align="left">GitHub Stats :</h3> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu960&show_icons=true&locale=en" alt="divyanshu960" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu960&theme=dark" alt="divyanshu960" /></p>
