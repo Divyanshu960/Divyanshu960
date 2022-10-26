@@ -3,13 +3,13 @@
 <img align="right" alt="coding-img" width ="400" src ="https://c.tenor.com/exuPwTTU-FwAAAAC/tenor.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu960&label=User%20views&color=1ce35e&style=flat" alt="divyanshu960" /> </p>
 
-- 🔭 I’m currently working on **Web + Data Projects**
+- 🔭 Currently working on **Web + Data Projects**
 
-- 🌱 I’m currently learning **React and Web Developement** 
+- 🌱 Currently learning **React and Web Developement** 
 
-- 👯 I’m looking to collaborate on **A.I Bots and Applications** 
+- 👯 Looking to collaborate on **A.I Bots and Applications** 
 
-- 🤝 I’m looking for help with **Sensor based devices**
+- 🤝 Looking for help with **Sensor based devices**
 
 - 💬 Ask me about **OpenCV and ML/AI** 
 
