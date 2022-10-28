@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **OpenCV and ML/AI** 
 
-- 📫 Mail me at **cdivyanshu10@gmail.com**
+- 📫 Mail me at **cdivyanshu10@gmail.com **
 
 - ⚡ Do you know ? **The first computer virus was a Creeper.**
 
