@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Divyanshu  Chaurasiya </h1>
+<h1 align="center">Hi 👋, I'm Divyanshu  Chaurasiya</h1>
 <h3 align="center">A Single line of code can change the Future.</h3>
 <img align="right" alt="coding-img" width ="400" src ="https://c.tenor.com/exuPwTTU-FwAAAAC/tenor.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu960&label=User%20views&color=1ce35e&style=flat" alt="divyanshu960" /> </p>
@@ -55,6 +55,7 @@
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 <h3 align="left">ML Tools </h3>
+
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
