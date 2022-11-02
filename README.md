@@ -54,7 +54,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
-<h3 align="left">ML Tools </h3>
+<h3 align="left">ML Tools</h3>
 
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
