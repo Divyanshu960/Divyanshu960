@@ -15,7 +15,7 @@
 
 - 📫 Mail me at **cdivyanshu10@gmail.com**
 
-- ⚡ Do you know ?**The first computer virus was a Creeper.**
+- ⚡ Do you know?**The first computer virus was a Creeper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
