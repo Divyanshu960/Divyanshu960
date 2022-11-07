@@ -9,7 +9,7 @@
 
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
  
-- 🤝 Looking for help with **Sensor based devices**
+- 🤝 Looking for help with **Sensor Based devices**
 
 - 💬 Ask me about **OpenCV and ML/AI** 
 
