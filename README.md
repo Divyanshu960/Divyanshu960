@@ -8,7 +8,7 @@
 - 🌱 Currently learning **React and Web Developement** 
    
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
-   
+     
 - 🤝 Looking for help with **Sensor Based devices**
 
 - 💬 Ask me about **OpenCV and ML/AI** 
