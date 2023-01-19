@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu960&label=User%20views&color=1ce35e&style=flat" alt="divyanshu960" /> </p>
 
 - 🔭 Currently working on **Web+Data Projects**
-   
+ 
 - 🌱 Currently learning **React and Web Developement** 
     
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
