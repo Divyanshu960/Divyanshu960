@@ -2,7 +2,7 @@
 <h3 align="center">A Single line of code can change the Future.</h3>
 <img align="right" alt="coding-img" width ="400" src ="https://c.tenor.com/exuPwTTU-FwAAAAC/tenor.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu960&label=User%20views&color=1ce35e&style=flat" alt="divyanshu960" /> </p>
- 
+  
 - 🔭 Currently working on **Web+Data Projects**
  
 - 🌱 Currently learning **React and Web Developement** 
