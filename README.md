@@ -10,7 +10,7 @@
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
    
 - 🤝 Looking for help with **Sensor Based devices** 
-
+ 
 - 💬 Ask me about **OpenCV and ML/AI** 
    
 - 📫 Mail me at **cdivyanshu10@gmail.com**
