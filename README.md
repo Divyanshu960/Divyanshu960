@@ -5,13 +5,13 @@
    
 - 🔭 Currently working on **Web+Data Projects**
     
-- 🌱 Currently learning **React and Web Developement** 
+- 🌱 Currently enhancing skills on **React and Web Developement** 
   
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
   
-- 🤝 Looking for help with **Sensor Based devices**  
+- 🤝 Looking for help with **AR/VR applications**  
  
-- 💬 Ask me about **OpenCV and ML/AI** 
+- 💬 Ask me about **Image Processing and ML/AI** 
    
 - 📫 Mail me at **cdivyanshu10@gmail.com**
     
