@@ -6,7 +6,7 @@
 - 🔭 Currently working on **Web+Data Projects**
     
 - 🌱 Currently enhancing skills on **React and Web Developement** 
-  
+    
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
   
 - 🤝 Looking for help with **AR/VR applications**  
