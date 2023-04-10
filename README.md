@@ -8,7 +8,7 @@
 - 🌱 Currently enhancing skills on **React and Web Developement** 
     
 - 👯 Looking to collaborate on **A.I Bots and Applications** 
-  
+   
 - 🤝 Looking for help with **AR/VR applications**  
  
 - 💬 Ask me about **Image Processing and ML/AI**  
