@@ -92,3 +92,5 @@
 <h3 align="left">GitHub Stats:</h3> 
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu960&theme=dark" alt="divyanshu960" /></p>
+
+[![An image of @divyanshu960's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divyanshu960)](https://holopin.io/@divyanshu960)
