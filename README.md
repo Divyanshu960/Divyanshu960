@@ -24,7 +24,7 @@
 <a href="https://discord.gg/Princey#0117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Princey#0117" height="30" width="40" /></a>
 </p>    
  
-<h3 align="left">Languages I feel comfortable at:</h3>
+<h3 align="left">Languages I feel comfortable at : </h3>
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
